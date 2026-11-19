@@ -1,0 +1,23 @@
+/*
+ *Name: [Joshua Chilton]
+ *UnityID: [jmchilto]
+ *Date: [November 19 2026]
+ *Assignment: [Guilded Lab 4]
+ *Description: [Guilded lab 4, about me webpage]
+ */
+ 
+p {
+    font-family: Times;
+    font-size: 16px;
+    color: #DECAFF;
+
+}
+
+.table-boorder {
+    border: 1px solid #DECAFF;
+}
+
+#photo-resize {
+    max-width: 250px;
+    max-height: 300px;
+}
